@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+header{
+    background-color: rgb(69, 56, 40);
+    padding: 20px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+p{
+    color: burlywood;
+    text-align: center;
+}
+
+
+body{
+    background-color: bisque;
+    font-size: 20px;
+    
+}
+.hero{
+    background-color: white;
+    padding: 20px;
+}
+section{
+    padding: 0 40px;
+}
+.hero-text{
+    float: right;
+    width: 1250px;
+    margin-top: 20px;
+    margin-right: 50px;
+    
+}
+h2{
+    color:rgb(69, 56, 40) ;
+}
+h3{
+    margin: 10px;
+}
+.type2{
+    color: black;
+    text-align: left;
+    margin-bottom: 40px;
+}
+.hero-text a{
+    background-color: rgb(128, 207, 8);
+    color: whitesmoke;
+    padding: 10px 40px 10px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 30px;
+    
+}
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    
+}
+td{
+    border: 2px solid black;
+    background-color: white;
+    color:rgb(69, 56, 40) ;
+
+}
+th{
+    border: 2px solid black;
+    background-color:rgb(69, 56, 40) ;
+    color: white;
+}
+form{
+    background-color: white;
+    border-radius: 15px;
+    width:600px;
+    margin-bottom: 40px;
+    padding: 10px 120px;
+    
+}
+input{
+    padding:10px 100px;
+    border-radius:20px ;
+    border: 1px solid rgb(119, 117, 117);
+    margin-top: 5px;
+}
+
+footer{
+    background-color: rgb(69, 56, 40); 
+    padding: 20px;
+}
